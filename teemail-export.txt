@@ -1,0 +1,154 @@
+﻿{
+  "groups":{
+    "manilahackers":{
+      "members":{
+        "james":{
+          "id":"james"
+        }
+      },
+      "postfix":"org"
+    },
+    "supermail":{
+      "members":{
+        "james":{
+          "id":"james.macariola"
+        },
+        "maiah":{
+          "id":"jeremiah.macariola"
+        }
+      },
+      "postfix":"com"
+    }
+  },
+  "mails":{
+    "messages":{
+      "-IQtqrtcZtx3-hnVnEWr":{
+        "-IQtqrteiKtsjBQvjuvK":{
+          "frm":"maiah",
+          "msg":"here it is."
+        }
+      },
+      "-IQtr-BIyRSnx5qJfiXE":{
+        "-IQtr-BJGeKsRB3COH-Z":{
+          "msg":"This is the new one. I am sending to you now."
+        }
+      },
+      "-IQtsoH-3v5WiJA_Rm5o":{
+        "-IQtsoH0EPtIyzkdny1u":{
+          "msg":"here and now. I know."
+        }
+      },
+      "-IQtssvpT2a8NDSq4XRK":{
+        "-IQtssvq3PVShgH5r14f":{
+          "msg":"just believe!"
+        }
+      },
+      "-IQtt-9USL293rfPmxHG":{
+        "-IQtt-9VtatSdp4byxnH":{
+          "msg":"invitation for you."
+        }
+      },
+      "-IQtucZ2O4zYlR_MT6EB":{
+        "-IQtucZ3mihozXYxvSXS":{
+          "msg":"invitation for you."
+        }
+      },
+      "-IQu0sD6WU3Xe0uBbuk-":{
+        "-IQu0sD6WU3Xe0uBbuk0":{
+          "msg":"again."
+        }
+      },
+      "-IQu30XuPzK9Rf_7p-sx":{
+        "-IQu30XuPzK9Rf_7p-sy":{
+          "msg":""
+        }
+      },
+      "-IQu31JapiDNkijqErB5":{
+        "-IQu31JbjZwuN6qBuEG4":{
+          "msg":""
+        }
+      },
+      "-IQu4hMuq2NwZiF0ZSit":{
+        "-IQu4hMuq2NwZiF0ZSiu":{
+          "msg":"good night."
+        }
+      }
+    },
+    "topics":{
+      "-IQtqrtcZtx3-hnVnEWr":{
+        "participants":{
+          "-1234567890":{
+            "id":"maiah"
+          },
+          "-2234567890":{
+            "id":"james"
+          }
+        },
+        "sbj":"information"
+      },
+      "-IQtr-BIyRSnx5qJfiXE":{
+        "frm":"james",
+        "sbj":"another theme",
+        "to":"maiah"
+      },
+      "-IQtsoH-3v5WiJA_Rm5o":{
+        "frm":"maiah",
+        "sbj":"a lot",
+        "to":"james"
+      },
+      "-IQtssvpT2a8NDSq4XRK":{
+        "frm":"maiah",
+        "sbj":"idea",
+        "to":"james"
+      },
+      "-IQtt-9USL293rfPmxHG":{
+        "frm":"maiah",
+        "sbj":"Invi",
+        "to":"james"
+      },
+      "-IQtucZ2O4zYlR_MT6EB":{
+        "frm":"maiah",
+        "sbj":"Invis",
+        "to":"james"
+      },
+      "-IQu0sD6WU3Xe0uBbuk-":{
+        "frm":"maiah",
+        "sbj":"changed",
+        "to":"james"
+      },
+      "-IQu4hMuq2NwZiF0ZSit":{
+        "frm":"maiah",
+        "sbj":"sleep",
+        "to":"james"
+      }
+    }
+  },
+  "tagLine":"Let there be new internet mailing",
+  "users":{
+    "james":{
+      "groups":{
+        "-IR1QBZW7cFpou4-c7ms":{
+          "name":"manilahackers"
+        },
+        "-IR1RyMIO7mCd2g1XP1t":{
+          "name":"supermail"
+        }
+      },
+      "name":{
+        "first":"James Aaron",
+        "last":"Macariola"
+      }
+    },
+    "maiah":{
+      "groups":{
+        "-IR1Pk38paIQ-aWSesmG":{
+          "name":"supermail"
+        }
+      },
+      "name":{
+        "first":"Jeremiah John",
+        "last":"Macariola"
+      }
+    }
+  }
+}

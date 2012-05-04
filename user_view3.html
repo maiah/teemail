@@ -1,0 +1,45 @@
+<html>
+<head>
+  <title>teeMail</title>
+
+</head>
+<body>
+<script type="text/x-handlebars">
+  <div>{{TeeMail.tagLine.text}}</div>
+</script>
+
+<h5>The real-time mailing app</h5>
+
+<script type="text/x-handlebars">
+  <div>{{TeeMail.user.teeId}}</div>
+</script>
+
+<div class="groups">
+  <span>Groups:</span>
+</div>
+
+<script type="text/x-handlebars" data-template-name="groups-template">
+  <ul>
+    {{#each groups}}
+      <li>{{name}}</li>
+    {{/each}}
+  </ul>
+</script>
+
+<div class="conversations">
+<h4>Conversations</h4>
+</div>
+
+<div class="sentMail">
+<h4>Sent Mail</h4>
+</div>
+
+<link rel="stylesheet" type="text/css" href="./example-20120430.css">
+
+<script type="text/javascript" src="./firebase-v0-20120430.js"></script>
+<script type="text/javascript" src="./jquery.min-1.7.1.js"></script>
+<script type="text/javascript" src="./ember-0.9.7.1.min.js"></script>
+<script type="text/javascript" src="./user_view3.js"></script>
+
+</body>
+</html>
