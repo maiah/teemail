@@ -17,7 +17,7 @@
 
   var currentUser = "james";
   var firebaseServer = "http://gamma.firebase.com";
-  var firebaseLocation = firebaseServer + "/teemail";
+  var firebaseLocation = firebaseServer + "/xxxxxxx";
   var myDataReference = new Firebase(firebaseLocation);
   var tagLineReference = myDataReference.child("tagLine");
   var userDataRef = myDataReference.child("users");

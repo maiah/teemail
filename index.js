@@ -1,6 +1,6 @@
 ﻿$(function() {
   // Get a reference to the root of the teeMail data.
-  var myDataReference = new Firebase('http://gamma.firebase.com/teemail');
+  var myDataReference = new Firebase('http://gamma.firebase.com/xxxxxxx');
 
   // create child locations.
   var tagLineDataRef = myDataReference.child('tagLine');

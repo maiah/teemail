@@ -1,5 +1,5 @@
 $(function() {
-  var firebaseLocation = 'http://gamma.firebase.com/teemail',
+  var firebaseLocation = 'http://gamma.firebase.com/xxxxxxx',
     currentUser = 'james';
 
   // Get a reference to the root of the teeMail data.
